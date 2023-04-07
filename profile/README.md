@@ -1,3 +1,3 @@
 ## Winstor
 
-[Wise projekt](../projects/2)
+* [Status](https://github.com/orgs/WinstorApps/projects/2)
