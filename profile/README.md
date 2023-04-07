@@ -1,3 +1,3 @@
 ## Winstor
 
-[a relative link](/folder/myrelativefile.md)
+[Wise projekt](/projects/2)
