@@ -1,3 +1,3 @@
 ## Winstor
 
-[Wise projekt](/projects/2)
+[Wise projekt](../projects/2)
